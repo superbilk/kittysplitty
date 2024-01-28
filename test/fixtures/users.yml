@@ -1,0 +1,18 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# Kate BECKETT
+# Richard CASTLE
+# MARTHA Rodgers
+# ALEXIS Castle
+# Javier ESPOSITO
+# Kevin RYAN
+
+
+beckett:
+  name: Kate beckett
+
+castle:
+  name: Richard Castle
+
+alexis:
+  name: Alexis Castle
